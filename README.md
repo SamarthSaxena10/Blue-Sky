@@ -9,7 +9,7 @@
 - [React.js](https://reactjs.org/) (Frontend Framework)
 
 ## Requirements For Initial Setup
-- Install [NodeJS](https://nodejs.org/en/)
+- Install [NodeJS](https://nodejs.org/en/) (Version - node-v18.0.0-x64)
 
 ## Setting Up
 ### 1. Clone/Download the Repository
