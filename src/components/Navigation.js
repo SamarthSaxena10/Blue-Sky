@@ -9,7 +9,7 @@ const Navigation = ({ account, setAccount }) => {
     }
 
     return (
-<nav class="bg-slate-50 drop-shadow-lg">
+<nav >
   <div class="max-w-6xl mx-auto px-4">
     <div class="flex justify-between">
 

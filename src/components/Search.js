@@ -1,6 +1,6 @@
 const Search = () => {
     return (
-        <header className="justify-self-center content-center">
+        <header className="justify-self-center content-center pt-10">
             {/* <h2 className="header__title">Search it. Explore it. Buy it.</h2>
             <input
                 type="text"
