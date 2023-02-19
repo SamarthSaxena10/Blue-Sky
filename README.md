@@ -12,7 +12,7 @@
 - Install [NodeJS](https://nodejs.org/en/) (Version - node-v18.0.0-x64)
 
 ## Setting Up
-### 1. Clone/Download the Repository
+### 1. Forked and Clone the Repo
 
 ### 2. Install Dependencies:
 `npm install`
